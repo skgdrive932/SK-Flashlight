@@ -1,0 +1,7 @@
+Project generated from the requirements in this conversation. No original Sketchware project/APK was supplied, so this is a new Android Studio project rather than a modification of an existing app.
+
+Before release:
+1. Replace production ad unit IDs with Google test IDs during development/testing.
+2. Verify your AdMob app is approved/ready to serve ads.
+3. Add consent/privacy flows required for your audience and comply with Google Play policies.
+4. Build and test on the target phone. Camera flash behavior varies by hardware.
